@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sumit Chaskar</h1>
 
 <p align="center">
-  A passionate software developer with a bachelor's degree in Computer Engineering. I have a strong foundation in web development technologies like HTML, CSS, and JavaScript, as well as proficiency in programming languages such as Java and C++. I'm skilled in Database Management Systems (SQL), with hands-on experience in performing CRUD operations and working with object-oriented programming (OOP) concepts. Additionally, I have a solid understanding of data structures and their practical applications.
+  A passionate software developer with a bachelor's degree in Computer Engineering. I have experience in both frontend and backend development, utilizing HTML, CSS, JavaScript, Vue, and React to create dynamic user interfaces. On the backend, I'm skilled in various programming languages and frameworks, along with expertise in databases like SQL and RDBMS connectivity. Passionate about full-stack development, I'm always exploring new tools and technologies to further enhance my skills.
 </p>
 
  
