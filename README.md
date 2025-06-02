@@ -1,99 +1,70 @@
-# 👋 Hi, I'm Sumit Chaskar
+<h1 align="center">Hi 👋, I'm Sumit Chaskar</h1>
+<h3 align="center">Full Stack Developer | MERN | Python | Java</h3>
 
-🎯 Full Stack Developer | 💡 Problem Solver | 🚀 Fast Learner  
-📍 Pune, Maharashtra, India  
-📫 sumitchaskar2000@gmail.com | [Portfolio Website](https://portfolio-beta-black-53.vercel.app/)
-
----
-
-## 🧠 About Me
-
-Motivated and hardworking Computer Engineering graduate with hands-on experience in building modern web applications. Skilled in Java, React, Node.js, and MongoDB, with a strong foundation in both front-end and back-end technologies.
-
-Eager to join dynamic teams and contribute meaningful solutions while continuously learning and improving.
-
----
-
-## 💼 Experience
-
-### 🔹 Zensar Technologies (Apr 2023 – Jun 2023)
-**Trainee – Skill Development Program**
-- Developed backend modules using SQL, PL/SQL, Core Java.
-- Optimized and integrated databases with SQL Server.
-
-### 🔹 Elite Software (Jan 2023 – Mar 2023)
-**Web Developer – Python Django**
-- Designed responsive web UIs with HTML, CSS, JavaScript.
-- Built and deployed backend solutions using Django.
+<p align="center">
+  <a href="https://portfolio-beta-black-53.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%2300c853?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://github.com/sumitchaskar7000" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%2312100E?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/sumit-chaskar" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 🚀 Projects
+## 🚀 Tech Stack
 
-### 🌱 [Cotton Disease Prediction](https://github.com/sumitchaskar7000/Cotton-Disease-Prediction)
-**React, Flask, Tailwind CSS, Python, MongoDB, Cloudinary**  
-- Built a full-stack solution with over 90% prediction accuracy.
-- Integrated CNN deep learning model for real-time disease diagnosis.
-- Aimed at helping farmers improve yield and crop health by 20%.  
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-%23000000.svg?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-%2306B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
+
+---
+
+## 📁 Projects
+
+### 🧠 [Cotton Disease Prediction](https://github.com/sumitchaskar7000/Cotton-Disease-Prediction)
+> 🌾 React | Flask | Tailwind CSS | Python | MongoDB | Cloudinary  
+> Predicts cotton crop diseases using deep learning with 90%+ accuracy. Built to help farmers boost crop yield by 20%.  
 🎥 [Watch Demo](https://youtu.be/wxq2YBtlKiI)
 
-### 🎓 Student Management System  
-**PHP, MySQL, JavaScript**  
-- Designed a MySQL-backed student record system with CRUD operations.
-- Ensured seamless integration between frontend and backend.
+---
+
+### 📚 Student Management System
+> 💻 PHP | MySQL | JavaScript  
+> A complete backend-connected student record management system with CRUD operations and database integration.
+
+---
 
 ### 🏥 [Doctor Appointment Booking System](https://github.com/sumitchaskar7000/Doctor-Appointment-System)
-**React, Node.js, Express.js, MongoDB, Stripe API**  
-- Scalable MERN stack application for booking appointments.
-- Role-based dashboards with secure authentication.
-- Integrated Stripe for payments, increasing convenience by 30%.
+> 💡 MERN Stack | Stripe API  
+> A secure and scalable platform for scheduling doctor appointments. Features role-based access and integrated payment with Stripe.
 
 ---
 
-## 🧰 Tech Stack
+## 🔗 Links
 
-**Languages**: Java, C++, JavaScript, Python, PHP  
-**Frameworks**: React, Node.js, Express.js, Django, Flask  
-**Database**: MongoDB, MySQL, SQL Server  
-**Tools**: VS Code, IntelliJ IDEA, Git/GitHub, Figma, Postman
-
----
-
-## 📜 Certifications
-
-- 🎓 Mastering Data Structures & Algorithms – *Udemy*
-- 🔐 Introduction to Cybersecurity – *Cisco Networking Academy*
-- 🐍 Basics of Python – *Infosys Springboard*
+- 🌐 **Portfolio:** [portfolio-beta-black-53.vercel.app](https://portfolio-beta-black-53.vercel.app/)
+- 🧑‍💻 **GitHub:** [sumitchaskar7000](https://github.com/sumitchaskar7000)
+- 💼 **LinkedIn:** [linkedin.com/in/sumit-chaskar](https://linkedin.com/in/sumit-chaskar)
 
 ---
 
-## 🎓 Education
-
-**B.Tech – Computer Engineering**  
-Dr. D.Y. Patil College of Engineering and Innovation, Pune (2021–2024)  
-CGPA: 8.4
-
-**Diploma – Information Technology**  
-Dr. D.Y. Patil Polytechnic, Akurdi, Pune (2019–2021)  
-Percentage: 80.19%
-
----
-
-## 🏆 Achievements
-
-🏅 *2nd Runner-up* – Technophilia 2024  
-**"Cotton Disease Prediction using ML"** awarded for innovation in agriculture.
-
----
-
-## 📂 Resume & Links
-
-- 📄 [View Resume (Google Drive)](https://drive.google.com/file/d/162yDsYeGf6x1o0-zHAIGmgL8KZm1BZXB/view?usp=sharing)
-- 💼 [LinkedIn](https://linkedin.com/in/sumit-chaskar)
-- 🧑‍💻 [GitHub](https://github.com/sumitchaskar7000)
-- 🧠 [LeetCode](https://leetcode.com/u/sumitchaskar/)
-- 🌐 [Portfolio](https://portfolio-beta-black-53.vercel.app/)
-
----
-
-⭐️ *If you like my projects or find them useful, feel free to star and follow!*
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sumitchaskar7000&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitchaskar7000&layout=compact&theme=tokyonight" />
+</p>
