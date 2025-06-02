@@ -2,7 +2,7 @@
 <h3 align="center">Transforming Ideas into Scalable Digital Solutions</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=💻+Full+Stack+Developer;🚀+Performance-Driven+Builder;🌱+Lifelong+Learner;🎯+Delivering+Impact+Through+Code" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=💻+Full+Stack+Developer;🎯+Delivering+Impact+Through+Code" />
 </p>
 
 <p align="center">
